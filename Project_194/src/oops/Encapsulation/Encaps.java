@@ -3,7 +3,7 @@ package oops.Encapsulation;
 
 public class Encaps 
 {
-	
+	//Declared with priave modifier [So that unknown user can' see it]
 	private String name;
 	private String email;
 	private String mobile;

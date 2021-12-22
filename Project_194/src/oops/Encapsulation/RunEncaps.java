@@ -6,7 +6,7 @@ public class RunEncaps {
 	{
 		
 		Encaps obj=new Encaps();
-		obj.employeeid="MQ002";
+		obj.employeeid="MQ002";  //It will override the value 
 		
 		obj.setName("Sunil");
 		String username=obj.getName();
